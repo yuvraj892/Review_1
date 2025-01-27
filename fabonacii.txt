@@ -1,0 +1,6 @@
+//fabonaicii series 
+//Task1: print upto range 
+//Task2: Print n fabonacii number 
+using System;
+class Fabonacii{
+}
