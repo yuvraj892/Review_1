@@ -11,7 +11,8 @@ class Fabonacii{
 		//putting it in a loop so that numbers keep added in sum in order to gain fabonacii series 
 		for (int i=0;i<=num;i++){
 			sum +=i;
+			Console.Write(sum + " ");
 		}
-		Console.WriteLine("sum is:" + sum);
+		//Console.WriteLine("fabonacii number is:" + sum);
 	}
 	}
